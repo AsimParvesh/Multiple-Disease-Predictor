@@ -1,6 +1,6 @@
 🩺 Disease Prediction App
 
-A beautiful, health-themed Streamlit web app that predicts the presence of Parkinson's, Kidney, and Liver diseases based on patient input parameters. Powered by machine learning models trained on real medical datasets.
+A Beautiful, Health-themed Streamlit web app that predicts the presence of Parkinson's, Kidney, and Liver diseases based on patient input parameters. Powered by machine learning models trained on real medical datasets.
 
 
 
@@ -47,14 +47,19 @@ Multiple_Disease_Predictor/
 
 
 🧠 Model Details
+
 -The models were trained using key clinical features selected for each disease.
 -Preprocessing steps like scaling, encoding, and cleaning were applied before training.
 -Models saved using Joblib for fast loading and prediction.
 
+
+
 📋 Notes
+
 -Important: Make sure the models/ folder with the .pkl files is available alongside app.py.
 -This project is built for educational and demonstration purposes only.
 -It should not be used as a substitute for professional medical diagnosis.
+
 
 
 ⚙️ How to Use
