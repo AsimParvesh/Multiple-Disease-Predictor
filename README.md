@@ -55,3 +55,14 @@ Multiple_Disease_Predictor/
 -Important: Make sure the models/ folder with the .pkl files is available alongside app.py.
 -This project is built for educational and demonstration purposes only.
 -It should not be used as a substitute for professional medical diagnosis.
+
+
+⚙️ How to Use
+
+- Select the disease you want to predict from the sidebar.
+- Enter the required health parameters.
+- Click on Predict.
+- View instant prediction results with clear messaging.
+
+👨🏻‍💻 Author
+Made with ❤️ by Asim Parvesh T
