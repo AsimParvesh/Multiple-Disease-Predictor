@@ -65,4 +65,5 @@ Multiple_Disease_Predictor/
 - View instant prediction results with clear messaging.
 
 👨🏻‍💻 Author
+
 Made with ❤️ by Asim Parvesh T
